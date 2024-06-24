@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Lucía Cov</h1>
+<h1 align="center">Hola 👋, Soy Cova</h1>
 <h3 align="center">Soy desarrolladora junior</h3>
 
 - 🌱 Actualmente estoy aprendiendo **desarrollo frontend**
