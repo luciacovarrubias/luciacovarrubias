@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Cova</h1>
 <h3 align="center">Soy desarrolladora junior</h3>
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo frontend**
+- 🌱 Actualmente estoy aprendiendo **desarrollo frontend y backend**
 
 - 📫 Como contactarme **covarrubiasluciacc@gmail.com**
 
