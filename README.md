@@ -5,8 +5,6 @@
 
 - 📫 Como contactarme **covarrubiasluciacc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EqOswRB2Wdfwtzmmf8PJgb2JKFdUG4Ah/view?usp=sharing](https://drive.google.com/file/d/1EqOswRB2Wdfwtzmmf8PJgb2JKFdUG4Ah/view?usp=sharing)
-
 - ⚡ Dato curioso **todo lo hago tomando un mate 🧉**
 
 <h3 align="left">Connect with me:</h3>
