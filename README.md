@@ -13,7 +13,8 @@
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,boostrap,nextjs,tailwind)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,jquery,boostrap,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
