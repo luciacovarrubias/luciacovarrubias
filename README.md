@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Lucía</h1>
+<h1 align="center">Hola, soy Lucía 👋</h1>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **desarrollo fontend y backend**
 
-- 📫 Como contactarme **covarrubiasluciacc@gmail.com**
+- 📫 Donde contactarme **covarrubiasluciacc@gmail.com**
 
 - ⚡ Dato curioso **todo lo hago tomando un mate 🧉**
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/luciacovarrubias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciacovarrubias" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">👨🏻‍💻 Lenguajes y Herramientas:</h3>
+<h3 align="left">👨🏻‍💻 Lenguajes y herramientas:</h3>
 <p align="center">
   <br>
   <a href="https://skillicons.dev">
