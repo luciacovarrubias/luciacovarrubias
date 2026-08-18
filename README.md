@@ -1,31 +1,29 @@
-<h1 align="center">Hola, soy Lucía 👋</h1>
+# Hola, soy Lucía 👋
 
+Trabajo en investigación y desarrollo aplicando IA, construyendo sistemas multiagentes basados en LLM's. Me enfoco en arquitecturas de agentes, backend y bases de datos.
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=25&pause=1000&color=64C25FF8&width=435&lines=Desarrolladora+Junior+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Estudiante+de+Sistemas+de+Informaci%C3%B3n+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;Exploradora%2C+creativa+e+investigadora+%F0%9F%94%8D" alt="Typing SVG" /></a>
-</p>
+## En qué estoy últimamente
 
-<!--<h3 align="center">Soy desarrolladora junior</h3>-->
+- 🤖 Diseño e implementación de sistemas multiagente con **OpenAI Agents SDK**
+- 🛠 Backend con **FastAPI** y **PostgreSQL**
+- 📄 Presenté un paper sobre estrategias de diseño en sistemas multiagente en las [55° JAIIO](https://55jaiio.sadio.org.ar/) (ASAID), a partir de cuatro implementaciones reales
+- 🌱 Siempre aprendiendo, con ganas de seguir metiéndome más a fondo en IA aplicada
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo fontend y backend**
+## Stack
 
-- 📫 Donde contactarme **covarrubiasluciacc@gmail.com**
+**Lenguajes y frameworks**
 
-- ⚡ Dato curioso **todo lo hago tomando un mate 🧉**
+![](https://skillicons.dev/icons?i=python,fastapi,postgres,js,html,css&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luciacovarrubias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciacovarrubias" height="30" width="40" /></a>
-</p>
+**Herramientas de IA**
 
-<h3 align="left">👨🏻‍💻 Lenguajes y herramientas:</h3>
-<p align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,nextjs,tailwind,line=12" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,nestjs,npm,postman,line=12" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=latex,vscode,bash,git,github,line=12" />
-  </a>
-</p>
+OpenAI Agents SDK · Prompt design · RAG
+
+## Contacto
+
+- 📫 covarrubiasluciacc@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/luciacovarrubias)
+
+---
+
+*Mate en mano, siempre 🧉*
