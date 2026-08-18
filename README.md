@@ -13,12 +13,12 @@ Trabajo en investigación y desarrollo aplicando IA, construyendo sistemas multi
 
 **Lenguajes y frameworks**
 
-<img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40">
-<img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40">
-<img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40">
-<img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40">
-<img src="https://cdn.simpleicons.org/postgresql/316192" width="40" height="40">
-<img src="https://cdn.simpleicons.org/pgadmin/336791" width="40" height="40">
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Herramientas de IA**
 
