@@ -21,7 +21,7 @@ Trabajo en investigación y desarrollo aplicando IA, construyendo sistemas multi
 
 **Herramientas de IA**
 
-OpenAI Agents SDK · Prompt design · RAG
+OpenAI Agents SDK · Prompt Engineering · RAG · MCP ·  guardrails
 
 ## Contacto
 
@@ -29,5 +29,3 @@ OpenAI Agents SDK · Prompt design · RAG
 - 💼 [LinkedIn](https://linkedin.com/in/luciacovarrubias)
 
 ---
-
-*Mate en mano, siempre 🧉*
