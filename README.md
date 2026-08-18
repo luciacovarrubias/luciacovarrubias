@@ -13,7 +13,12 @@ Trabajo en investigación y desarrollo aplicando IA, construyendo sistemas multi
 
 **Lenguajes y frameworks**
 
-![](https://skillicons.dev/icons?i=python,fastapi,postgres,js,html,css&theme=dark)
+<img src="https://cdn.simpleicons.org/openai/10A37F" width="40" height="40">
+<img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40">
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40">
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40">
+<img src="https://cdn.simpleicons.org/postgresql/316192" width="40" height="40">
+<img src="https://cdn.simpleicons.org/pgadmin/336791" width="40" height="40">
 
 **Herramientas de IA**
 
